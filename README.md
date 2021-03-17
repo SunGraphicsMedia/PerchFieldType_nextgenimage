@@ -1,7 +1,7 @@
 # Next-gen image support for Perch CMS
 
 ## Installation
-Simply copy the `nextgenimage` directory into the `perch/addons/fieldtypes/` directory in an existing Perch installation.
+Copy the `nextgenimage` directory into the `perch/addons/fieldtypes/` directory in an existing Perch installation.
 
 ## Usage
 This extends the default image field type, meaning that all existing perch images will output identically by default. To take advantage of webp compression, set the output attribute to `nextgen`.
